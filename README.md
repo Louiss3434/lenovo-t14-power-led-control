@@ -1,2 +1,8 @@
 # lenovo-t14-power-led-control
-Toggle Lenovo Thinkpad T14 Power Button on off
+Toggle those pesky power button light on off
+
+Alternative to Winring0
+
+Tested on T14 gen2
+
+Try using admin rights if it didnt work the first time
