@@ -1,4 +1,4 @@
-# lenovo-t14-power-led-control
+# lenovo-thinkpad-power-led-control
 Toggle those pesky power button light on off
 
 Alternative to Winring0
