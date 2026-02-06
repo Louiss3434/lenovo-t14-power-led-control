@@ -5,6 +5,10 @@ Alternative to Winring0
 
 Tested on T14 gen2
 
+## Usage
+
+Extract all, run main.exe
+
 Try using admin rights if it didnt work the first time
 
-If nothing works or something broke, hard reboot by long pressing power button
+If nothing works or something broke, hard reboot by long pressing power button until laptop is shut off
